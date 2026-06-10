@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Trucking</name>
+   <tag></tag>
+   <elementGuidId>56324515-713f-4096-8d55-2a9635836141</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='choosen_service']/div[5]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-1.m-t-10 > div.form-body > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>309a552e-8e2d-45ea-aef8-771e6d96de0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>trucking</value>
+      <webElementGuid>dc681966-ec8e-4c1f-ad1a-9560ab935917</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trucking</value>
+      <webElementGuid>8a2f3426-41b6-4814-b88e-bf108da9fc68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;choosen_service&quot;)/div[@class=&quot;col-md-1 m-t-10&quot;]/div[@class=&quot;form-body&quot;]/label[1]</value>
+      <webElementGuid>d6923950-27d9-47e3-ab19-b708f3f930e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='choosen_service']/div[5]/div/label</value>
+      <webElementGuid>7282d2bd-7492-4df2-8480-1a3a98a26a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Clearance'])[1]/following::label[1]</value>
+      <webElementGuid>b41e9398-5740-40c2-a3b0-2c60325e2dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Air Freight'])[1]/following::label[2]</value>
+      <webElementGuid>440cca3f-0683-41df-95a1-f7794d39caf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warehouse'])[2]/preceding::label[1]</value>
+      <webElementGuid>9cef3a5d-9297-40cd-97a2-0e0336a872ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import all in'])[1]/preceding::label[3]</value>
+      <webElementGuid>989ee7cc-a2fc-4434-807f-3b689fc47d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[3]/div[5]/div/label</value>
+      <webElementGuid>aa238e38-4bf3-4e68-881e-56fc06dbcc1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Trucking' or . = 'Trucking')]</value>
+      <webElementGuid>82df91f3-c868-47cb-8cf9-874fe6870b6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

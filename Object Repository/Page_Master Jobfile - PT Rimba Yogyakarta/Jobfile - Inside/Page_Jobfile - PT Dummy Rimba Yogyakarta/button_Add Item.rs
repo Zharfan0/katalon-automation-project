@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Item</name>
+   <tag></tag>
+   <elementGuidId>c3af5214-5008-4eba-926b-57a3ae1ecbfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-offset-3.col-md-9 > button.btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='btn_add_cost_temp_buying()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e886a812-371a-43ea-b1ec-e3ef5a9d73a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn </value>
+      <webElementGuid>8074f7e6-186a-47a4-af02-caea2c4248a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>btn_add_cost_temp_buying()</value>
+      <webElementGuid>3090406d-3989-4a36-b620-f8fe398d297c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>99ce788b-8cdc-435b-a540-7e22fc01612b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buying_form&quot;)/div[@class=&quot;form-actions&quot;]/div[@class=&quot;row col-lg-12&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-offset-3 col-md-9&quot;]/button[@class=&quot;btn&quot;]</value>
+      <webElementGuid>709133d2-e41d-4dd3-b2ed-ac8bd46c4de0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='btn_add_cost_temp_buying()']</value>
+      <webElementGuid>871cd5e2-a63f-4aea-8e50-00528933381d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buying_form']/div[2]/div[2]/div/div/div/button</value>
+      <webElementGuid>ab2782b8-7006-4fa6-91b3-18c9d322a69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose'])[5]/following::button[1]</value>
+      <webElementGuid>a4af0c9a-c945-4343-853a-d99d7cfb8bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[5]/preceding::button[1]</value>
+      <webElementGuid>2a688436-c104-4543-84ea-3f94de2b9653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item'])[1]/preceding::button[1]</value>
+      <webElementGuid>360a1bf5-28d9-427a-b5d6-98b7e7799ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/button</value>
+      <webElementGuid>7dd4aa31-00ae-4831-9f34-326a0f1f3eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>44a0cf15-73c0-40fa-a81c-7c7f5d903920</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

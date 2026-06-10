@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Same as Billing Address_1</name>
+   <tag></tag>
+   <elementGuidId>8f00b16e-bde0-4e0c-9f83-a736d9f4cbea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='form-p-4']/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#form-p-4 > div.row > div.col-md-12 > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>190680c9-4c11-4464-a3ce-a3344f463de8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>tax_billing</value>
+      <webElementGuid>47272a5b-2080-4818-9caa-359c41bb3453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Same as Billing Address</value>
+      <webElementGuid>19a27853-fe12-493c-9c6e-03f3c8fa93ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-p-4&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/label[1]</value>
+      <webElementGuid>57f6b02d-604c-4cb3-8d8b-f8ee3d3e67fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='form-p-4']/div/div/label</value>
+      <webElementGuid>fbf90bce-d375-4d9f-a003-d32a0a6b1a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax'])[1]/following::label[1]</value>
+      <webElementGuid>b5ace902-3fa0-4da6-bbe7-f6bc43c04796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[15]/following::label[1]</value>
+      <webElementGuid>a5d465cc-3035-4823-9d87-71c74653d2f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax Payer Name'])[1]/preceding::label[1]</value>
+      <webElementGuid>e25d83f3-63a5-4bca-82a3-98726c75d63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[5]/div/div/label</value>
+      <webElementGuid>04dd969d-019b-40ac-af1d-197bbe97bbef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Same as Billing Address' or . = 'Same as Billing Address')]</value>
+      <webElementGuid>3a0c53ef-f835-4494-bf2a-01c9a47d4550</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

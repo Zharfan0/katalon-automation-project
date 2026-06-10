@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown-database-session</name>
+   <tag></tag>
+   <elementGuidId>1ad04b7c-0676-481f-86ad-cd0082df38d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='db_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#db_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c1687512-478e-46ca-9f22-dc493ec0c916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profile-v4-db-select</value>
+      <webElementGuid>481030c2-2f71-4426-98e7-3a317cb07ed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>db_id</value>
+      <webElementGuid>396cbac2-2173-4a0f-8767-609c37e3092b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>db_id</value>
+      <webElementGuid>3954dc08-c4e2-4afd-86a6-3b54ae6a497f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    -- If empty please press Get Token --
+                    Partnership CPS X Oaktree - Development                </value>
+      <webElementGuid>312388d8-925b-47c0-abe9-2a13ba37d1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;db_id&quot;)</value>
+      <webElementGuid>7cde3f7f-1de1-4ef6-8865-1c50a37c972c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='db_id']</value>
+      <webElementGuid>38bb1aa1-f933-4e78-89bb-df061f696275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper-40']/div[3]/div/div[2]/div[2]/div[2]/select</value>
+      <webElementGuid>10dec469-4bc4-4958-9c48-e9410de6b3e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Session Inactive'])[1]/following::select[1]</value>
+      <webElementGuid>34d08f97-ba0e-430f-89af-47163c43dac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Token Active'])[1]/following::select[1]</value>
+      <webElementGuid>82b4684b-2f2a-42cd-8e08-9608a4db9cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Token'])[1]/preceding::select[1]</value>
+      <webElementGuid>e684ffc3-9102-4381-aee5-b7c47ca9aee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Session'])[1]/preceding::select[1]</value>
+      <webElementGuid>1428fe3b-99ea-4a74-b992-a729c4197b72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>38e3e1fe-d67e-45cc-8e8e-9955edbb4963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'db_id' and @name = 'db_id' and (text() = '
+                    -- If empty please press Get Token --
+                    Partnership CPS X Oaktree - Development                ' or . = '
+                    -- If empty please press Get Token --
+                    Partnership CPS X Oaktree - Development                ')]</value>
+      <webElementGuid>1350e788-a5f6-491d-a4f0-25df5f8301bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

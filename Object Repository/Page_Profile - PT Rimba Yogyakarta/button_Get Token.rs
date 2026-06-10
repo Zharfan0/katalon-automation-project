@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get Token</name>
+   <tag></tag>
+   <elementGuidId>4279b678-610e-4724-b432-28dbe38fc813</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#input-form > button.profile-v4-btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cdba2537-db89-4e17-993d-8963e1a0e3fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>1ee3c20d-e4fd-4988-a6e9-a57d93971aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>profile-v4-btn-primary</value>
+      <webElementGuid>1b47bc8f-ca7e-4e2a-8357-738a8ff90332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Token</value>
+      <webElementGuid>59157208-1d20-4e58-9794-7f493f702be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper-40&quot;)/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;container-dl&quot;]/div[@class=&quot;profile-v4-grid-2&quot;]/div[@class=&quot;profile-v4-card&quot;]/div[@class=&quot;profile-v4-db-controls&quot;]/form[@id=&quot;input-form&quot;]/button[@class=&quot;profile-v4-btn-primary&quot;]</value>
+      <webElementGuid>8e4a28c6-ed6c-4ec5-a208-68af3d7826e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>d36467ba-8ec8-47e0-b954-b34dc8d21726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='input-form']/button</value>
+      <webElementGuid>0ffa87d3-50e8-4062-bf6c-a05552c11b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Session Active'])[1]/following::button[1]</value>
+      <webElementGuid>e651582b-5def-4fc8-9e5b-389b14e91d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Token Active'])[1]/following::button[1]</value>
+      <webElementGuid>84430733-453a-4601-a122-991e784ce727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Session'])[1]/preceding::button[1]</value>
+      <webElementGuid>d64e7dcf-15dd-412f-8267-b5c057c7f23b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get Token']/parent::*</value>
+      <webElementGuid>659cba08-4cf6-4aaf-b0b3-618bcefd5376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>d844d51b-3503-4ab1-a0f2-19eca580a6fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Get Token' or . = 'Get Token')]</value>
+      <webElementGuid>9fb2d23e-d539-4782-89fe-c80841c38104</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

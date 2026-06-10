@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC0 - Get Token Get Session</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8fbdc22d-637b-47ed-9129-53d881f46bce</testCaseGuid>
+</TestCaseEntity>

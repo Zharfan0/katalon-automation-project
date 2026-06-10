@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Air Freight</name>
+   <tag></tag>
+   <elementGuidId>fe160913-6b08-407f-891f-e0da3afb05cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='air_view']/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#air_view > div.form-body > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2b49d917-7c9c-48df-b169-19ca33240dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>air</value>
+      <webElementGuid>e8868ab7-57fc-4bc7-8943-60c424e1144f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Air Freight</value>
+      <webElementGuid>cfb5e3e3-c038-442e-953e-623bbafe596f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;air_view&quot;)/div[@class=&quot;form-body&quot;]/label[1]</value>
+      <webElementGuid>933327ee-0559-4181-a524-53b542b5d9a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='air_view']/div/label</value>
+      <webElementGuid>4e79738f-add4-4005-9cbb-234c8420827d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ocean Freight'])[1]/following::label[1]</value>
+      <webElementGuid>395c3d5e-907b-49dd-89fe-74847a39e5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/following::label[2]</value>
+      <webElementGuid>ab814f4c-2af3-42ef-b574-40e8eff59d87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Clearance'])[1]/preceding::label[1]</value>
+      <webElementGuid>5e78fa44-7b71-42ce-98f6-db7071979f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trucking'])[2]/preceding::label[2]</value>
+      <webElementGuid>182db9f0-612a-41dc-829c-905e8a32ae90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Air Freight']/parent::*</value>
+      <webElementGuid>25bced81-5281-4f38-8865-0abeb1810ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/label</value>
+      <webElementGuid>fa1d8b69-b82c-4590-a9a5-120db93e857a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Air Freight' or . = 'Air Freight')]</value>
+      <webElementGuid>2509816e-25df-4138-ae6e-e64326d1010e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Free Hand</name>
+   <tag></tag>
+   <elementGuidId>c14636e7-e14b-415a-98ed-7a918d7559a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='freehand-view']/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#freehand-view > div.form-body > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a2fc148c-709c-4dc7-a59b-de44cf8bd475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>freehand</value>
+      <webElementGuid>f4dc9593-cd51-4646-94ed-91c64183220e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Free Hand</value>
+      <webElementGuid>cdd37948-18fb-44e8-a5e3-696fb61f1c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;freehand-view&quot;)/div[@class=&quot;form-body&quot;]/label[1]</value>
+      <webElementGuid>7a7146bb-5b08-4307-ba35-47110f584820</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='freehand-view']/div/label</value>
+      <webElementGuid>5d16ff34-cb7f-4778-97ac-4e0b196c1c28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomination'])[1]/following::label[1]</value>
+      <webElementGuid>e4698464-ea63-4d47-b7c4-57facd57eb5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unlock Selling Tab'])[1]/following::label[2]</value>
+      <webElementGuid>bd7c5db9-fc0f-4aea-8f38-ba5c5eafe679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate'])[1]/preceding::label[1]</value>
+      <webElementGuid>d991153f-1e1b-4ed5-bda6-fe4a634320b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Free Hand']/parent::*</value>
+      <webElementGuid>7bc56190-b6e5-4849-845c-de08bf2da367</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/label</value>
+      <webElementGuid>f8341ff4-0c86-40ad-8f66-3fd06976972a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Free Hand' or . = 'Free Hand')]</value>
+      <webElementGuid>5f9cb2ff-52d9-45db-8439-f9a19c7f7f76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

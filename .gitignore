@@ -1,0 +1,23 @@
+# Kredensial dan profil
+Profiles/
+
+# Hasil test
+Reports/
+Screenshots/
+
+# Hasil kompilasi
+Libs/
+Bin/
+build/
+.gradle/
+output/
+
+# File IDE
+.classpath
+.project
+.cache
+.settings/
+*.iml
+
+# Log
+*.log

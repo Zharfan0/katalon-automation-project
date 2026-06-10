@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_loader_module</name>
+   <tag></tag>
+   <elementGuidId>9a475352-fe9e-4549-aca7-a2373ed2e09d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[contains(@class,'loader_module')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'loader_module')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[contains(@class,'loader_module')]</value>
+      <webElementGuid>f05e3422-c691-4312-9184-cb2d1608d1e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//div[contains(@class,'loader_module')]</value>
+      <webElementGuid>86ba73ec-d6d2-4dd0-b80a-61da7ad1c014</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

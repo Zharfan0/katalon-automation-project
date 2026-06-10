@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sidebar-operational</name>
+   <tag></tag>
+   <elementGuidId>37930430-0368-4e61-98f2-9b5daac7b97e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='sidebarnav']/li[3]/a/span/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.active > a.has-arrow.waves-effect.waves-dark > span.pr-3 > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>41b54e47-12be-473f-9ac2-cb4e549708d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dummy.appoaktree.id/assets/admin/images/icon_new/operational.svg</value>
+      <webElementGuid>1f376a7a-4ddb-463e-a2f0-eb04c87c83b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebarnav&quot;)/li[@class=&quot;active&quot;]/a[@class=&quot;has-arrow waves-effect waves-dark&quot;]/span[@class=&quot;pr-3&quot;]/img[1]</value>
+      <webElementGuid>6065b4f4-646b-41b4-b2c0-250d6f183c30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='sidebarnav']/li[3]/a/span/img</value>
+      <webElementGuid>ebde39cb-f40b-4170-b61f-432e7ed4bd3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://dummy.appoaktree.id/assets/admin/images/icon_new/operational.svg')])[2]</value>
+      <webElementGuid>8ad37fea-c4a9-49cf-8f4f-1ae547fd7722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span/img</value>
+      <webElementGuid>06f36688-31d2-4d79-a419-22e1581d7943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://dummy.appoaktree.id/assets/admin/images/icon_new/operational.svg']</value>
+      <webElementGuid>633a76b3-e3a3-4a6f-a0fc-44085ff9d3a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

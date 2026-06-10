@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Create New customer</name>
+   <tag></tag>
+   <elementGuidId>7e8ac2b8-a034-43f6-aa9c-41c5241ffd03</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.waves-effect.waves-light.text-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6ba582ac-c965-4b2d-9e34-5fb92e9430ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dummy.appoaktree.id/admin/master_customer/create</value>
+      <webElementGuid>5657e9fc-ec63-478d-b9b1-5539d4d0f110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>show_modal()</value>
+      <webElementGuid>9f8f413b-606a-41cc-a109-4c1a9554e1a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e6b2a318-9fe0-4816-bebd-e648c9c57883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn waves-effect waves-light text-right</value>
+      <webElementGuid>dc2f046e-2e96-4d1c-855e-28d956f9141d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create New</value>
+      <webElementGuid>f36173ea-34be-477b-a981-b7aa6dc735a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-wrapper-40&quot;)/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;container-dl&quot;]/div[@class=&quot;card new-card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;btn-group&quot;]/div[1]/a[@class=&quot;btn waves-effect waves-light text-right&quot;]</value>
+      <webElementGuid>59e56228-bc59-4cf1-b1de-b0003cf0339a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@type='button']</value>
+      <webElementGuid>00116d31-9190-4f8f-bf3e-1a728e364e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-wrapper-40']/div[3]/div/div/div/div/div/a</value>
+      <webElementGuid>4fae661e-5d57-4ca8-82d5-a8cdfab7a6f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create New')]</value>
+      <webElementGuid>80318da3-2306-4958-872f-92828c56442a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='see whats new'])[1]/following::a[2]</value>
+      <webElementGuid>7da3a190-0a3b-441e-82e8-af1b8f68d43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Release Notes'])[1]/following::a[2]</value>
+      <webElementGuid>a999ed3d-553c-40bf-90df-6f60baf62d99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[1]/preceding::a[1]</value>
+      <webElementGuid>0c5a9712-ab27-4945-87c1-844adbe6fb4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sync'])[1]/preceding::a[2]</value>
+      <webElementGuid>e883658d-c928-481b-a4d6-15e6e18f4bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create New']/parent::*</value>
+      <webElementGuid>2ab6a3fe-bef9-4e30-aeda-cd1e6279bee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://dummy.appoaktree.id/admin/master_customer/create')]</value>
+      <webElementGuid>969d06e0-88d9-4aae-98ba-957fa57a6941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/a</value>
+      <webElementGuid>7912dba5-e9ba-4458-8f18-41f41e222d1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dummy.appoaktree.id/admin/master_customer/create' and @type = 'button' and (text() = ' Create New' or . = ' Create New')]</value>
+      <webElementGuid>c33a7d9e-063f-472b-b376-5090fc6a2938</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

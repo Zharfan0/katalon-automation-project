@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>custom job name desc-checkbox</name>
+   <tag></tag>
+   <elementGuidId>2daa5b3f-0d2c-4147-a63f-0f3e07b89f74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form']/div/div/div[9]/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12 > div.form-body > label.control-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>dad462af-e429-4184-8aeb-edade72735a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>control-label</value>
+      <webElementGuid>73ca0cfe-a99b-4022-b805-b43ec7f91f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>is_custom_name_jobfile</value>
+      <webElementGuid>21cb294d-681d-45b0-a3fc-a2f90305ffc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Custom Jobfile Name &amp; Description</value>
+      <webElementGuid>b4d4b94f-68c1-45e6-94cd-125c02a50ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;form-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-body&quot;]/label[@class=&quot;control-label&quot;]</value>
+      <webElementGuid>df92457e-ec98-4e6b-b020-f488def7bba0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form']/div/div/div[9]/div/div/div/label</value>
+      <webElementGuid>d8361bf8-f576-4ad4-b52e-b1edbe2abeb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No results found'])[1]/following::label[1]</value>
+      <webElementGuid>2ce301bf-96de-467c-a2d0-48125eb0fc5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Labels'])[1]/following::label[1]</value>
+      <webElementGuid>a3f93845-5db5-443d-bdd7-590cf1cf96c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unlock Selling Tab'])[1]/preceding::label[1]</value>
+      <webElementGuid>2fdfed40-c61a-4a61-8372-fd017a223549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomination'])[1]/preceding::label[2]</value>
+      <webElementGuid>3c69ea37-4a39-477a-a9eb-2af53a577e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Custom Jobfile Name &amp; Description']/parent::*</value>
+      <webElementGuid>a4d5bd45-f7dc-4bbe-a993-e9396dc5f30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/label</value>
+      <webElementGuid>22ea998f-8c57-46b8-a593-02af62ecaf5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Custom Jobfile Name &amp; Description' or . = 'Custom Jobfile Name &amp; Description')]</value>
+      <webElementGuid>28ef1d91-c04c-47d0-9f1b-fdad00d4ec16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

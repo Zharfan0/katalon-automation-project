@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Beri Akses</name>
+   <tag></tag>
+   <elementGuidId>6dab578c-1b22-4ff8-9da5-d51d36d37622</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#authorize-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='authorize-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cc8472da-4226-4deb-9d54-a44ef09c81f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a18cd59e-3a49-44a6-8414-d2f8cc411614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>badb32ae-5c3f-4d2a-85eb-7fb2c721d409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>authorize-button</value>
+      <webElementGuid>e2d47549-0254-46b6-b0ea-d2b3512a09a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>click: function() { if(!$('#authorize-button').prop('disabled')) { $('#authorize-button').prop('disabled',true); $('#authorize').submit(); } return false; }</value>
+      <webElementGuid>a4944127-bf96-4ee1-9ff0-8e64aec692ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beri Akses</value>
+      <webElementGuid>d97805da-1179-4576-9696-c3c677b27731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;authorize-button&quot;)</value>
+      <webElementGuid>10508189-bfed-4bee-9559-cfd12a37cdf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='authorize-button']</value>
+      <webElementGuid>4479a415-1d72-4eb3-ae9e-aa6aee22510c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tolak'])[1]/following::button[1]</value>
+      <webElementGuid>64175f3b-6dec-4825-afdc-029ef7e1c285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengakses/merubah data pada data usaha Anda'])[1]/following::button[2]</value>
+      <webElementGuid>90f94a9f-4ea5-447c-89b3-e3281b5dbbbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membuat/edit transaksi pembayaran penjualan'])[1]/preceding::button[1]</value>
+      <webElementGuid>77f6f398-928e-42c8-b082-c3ed4fe7ee1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membuat/edit data master pelanggan'])[1]/preceding::button[1]</value>
+      <webElementGuid>b02d1aad-b4b3-4954-bc04-68b7dc390cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Beri Akses']/parent::*</value>
+      <webElementGuid>a802dfde-f181-43bb-8db8-b8e2f31a5864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>bad07b7c-09bb-4fd9-8b88-7d8d8722f0ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'authorize-button' and (text() = 'Beri Akses' or . = 'Beri Akses')]</value>
+      <webElementGuid>7ba9cb9e-da1b-4768-8ea2-08672b3ad4bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Custom Clearance</name>
+   <tag></tag>
+   <elementGuidId>ec5b357d-07a9-4dbb-b414-3eeb5b480a1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='choosen_service']/div[4]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8ab01f62-ef2c-478d-b4b0-16f7440d490f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>custom_clearance</value>
+      <webElementGuid>06c57a18-64e3-43ca-8b23-92ee71eac9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Custom Clearance</value>
+      <webElementGuid>8ef11d97-6def-4e66-b698-9ab91bc2a3ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;choosen_service&quot;)/div[@class=&quot;col-md-2 m-t-10&quot;]/div[@class=&quot;form-body&quot;]/label[1]</value>
+      <webElementGuid>46602e81-b866-4617-a484-4277fa6e9a87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='choosen_service']/div[4]/div/label</value>
+      <webElementGuid>f40262e0-1476-4261-806a-1267190ca20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Air Freight'])[1]/following::label[1]</value>
+      <webElementGuid>a6e5a4d5-2739-47a7-80ca-c30f8d671626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ocean Freight'])[1]/following::label[2]</value>
+      <webElementGuid>2a097cd3-5464-45be-9435-92b37e0a6ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trucking'])[2]/preceding::label[1]</value>
+      <webElementGuid>8ef1ca70-3605-40d4-888e-15fa8bef8fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warehouse'])[2]/preceding::label[2]</value>
+      <webElementGuid>3a432982-834d-4499-a6d3-77dab7668289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Custom Clearance']/parent::*</value>
+      <webElementGuid>843e9287-ea55-4c3b-a259-889d87e2c02b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[3]/div[4]/div/label</value>
+      <webElementGuid>6928cf16-8660-45c6-8448-b733d520edd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Custom Clearance' or . = 'Custom Clearance')]</value>
+      <webElementGuid>9172aaba-db18-499d-a09d-91cbf315c148</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

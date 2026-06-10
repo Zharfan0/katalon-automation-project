@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toggle-manual-num-buy</name>
+   <tag></tag>
+   <elementGuidId>1d797150-f752-4958-af57-f12389374bec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-group-append > button.btn.btn-sm.btn-success > i.fa.fa-pencil-alt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-buying']/div/div/div/div[2]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e7c8877e-1693-4dbf-a067-d5027a60cfa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil-alt</value>
+      <webElementGuid>b229e93b-b1c9-4967-a87f-1ae7d840fde3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-buying&quot;)/div[@class=&quot;col-md-12 row&quot;]/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-append&quot;]/button[@class=&quot;btn btn-sm btn-success&quot;]/i[@class=&quot;fa fa-pencil-alt&quot;]</value>
+      <webElementGuid>10ae0cb4-7122-4e32-ae71-23fc02c5868c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-buying']/div/div/div/div[2]/button/i</value>
+      <webElementGuid>c3ee3534-8c82-4746-ab5d-2fc7ef611e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div[2]/button/i</value>
+      <webElementGuid>6dfbe279-345c-478f-9ecf-c55cf7e8f967</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

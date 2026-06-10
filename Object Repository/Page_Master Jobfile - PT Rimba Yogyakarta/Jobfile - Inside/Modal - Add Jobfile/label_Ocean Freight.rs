@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Ocean Freight</name>
+   <tag></tag>
+   <elementGuidId>a774033f-ed66-466d-9460-f0642e37fbc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ocean_view > div.form-body > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ocean_view']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8cd5c205-e182-43a8-a83e-0deecc5b00e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ocean</value>
+      <webElementGuid>6ab6b264-645f-46f7-8ea2-5caaacad9213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ocean Freight</value>
+      <webElementGuid>6b0aec88-0a9a-4335-8b70-d0d3a46fb5a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ocean_view&quot;)/div[@class=&quot;form-body&quot;]/label[1]</value>
+      <webElementGuid>a3a62237-e5bd-49cf-aa3d-0d08e1c502ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ocean_view']/div/label</value>
+      <webElementGuid>3508fa0c-8e2e-4082-9afd-92ae94776b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/following::label[1]</value>
+      <webElementGuid>86e87fb9-e89e-4c1d-b761-5361b14c20fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::label[1]</value>
+      <webElementGuid>b5f2b41f-7ae6-40ed-a76d-894583272f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Air Freight'])[1]/preceding::label[1]</value>
+      <webElementGuid>a3480c57-ce12-43df-ae10-13387ee5a729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Clearance'])[1]/preceding::label[2]</value>
+      <webElementGuid>aa236054-3bc8-4c94-8a9c-8928292589ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ocean Freight']/parent::*</value>
+      <webElementGuid>83586153-9639-40d7-a4cd-fac5234fbc95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/label</value>
+      <webElementGuid>e441e9a7-e2d7-48f9-b4bc-d7f4370a05ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Ocean Freight' or . = 'Ocean Freight')]</value>
+      <webElementGuid>f1ec737d-1669-4c9d-89f3-7572906d3e3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

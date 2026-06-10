@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1 - Create Jobfile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>327d08f5-b1b7-41cf-9b4b-8dd2c9867f4f</testCaseGuid>
+</TestCaseEntity>
