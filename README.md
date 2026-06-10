@@ -16,19 +16,20 @@ Oaktree ERP adalah sistem internal yang mengelola alur bisnis freight forwarding
 | TC-04 | Create Master Customer | Pendaftaran customer baru ke dalam master data |
 
 ## Struktur Direktori
-📁 Oak-Test-Automation/
-│
-├── 📁 Keywords/oaktree/          # Custom keywords reusable
-│   ├── OaktreeLogin.groovy       # Login handler + session management
-│   ├── Select2Input.groovy       # Interaksi dropdown Select2
-│   └── SweetAlert.groovy         # Handler popup SweetAlert
-│
-├── 📁 Object Repository/          # Lokator elemen UI (XPath, CSS)
-├── 📁 Scripts/                    # Script utama per test case
-├── 📁 Test Cases/                 # Definisi test case Katalon
-├── 📁 Test Suites/                # Konfigurasi eksekusi suite
-├── 📁 Data Files/                 # Data input untuk DDT (jika ada)
-└── 📁 Include/config/             # Konfigurasi environment
+## Struktur Direktori
+
+| Folder / File | Keterangan |
+|---|---|
+| `Keywords/oaktree/` | Custom keywords reusable |
+| `Keywords/oaktree/OaktreeLogin.groovy` | Login handler + session management |
+| `Keywords/oaktree/Select2Input.groovy` | Interaksi dropdown berbasis Select2 |
+| `Keywords/oaktree/SweetAlert.groovy` | Handler popup konfirmasi SweetAlert |
+| `Object Repository/` | Locator elemen UI (XPath, CSS) |
+| `Scripts/` | Script utama per test case |
+| `Test Cases/` | Definisi test case Katalon |
+| `Test Suites/` | Konfigurasi eksekusi suite |
+| `Data Files/` | Data input test |
+| `Include/config/` | Konfigurasi environment |
 
 ## Custom Keywords
 
