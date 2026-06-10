@@ -1,6 +1,6 @@
 # Oak-Test-Automation
 
-Automation test suite untuk Oaktree ERP — sistem freight forwarding terintegrasi dengan Accurate Online. Dibangun menggunakan Katalon Studio sebagai bagian dari pekerjaan Quality Assurance di PT. Rimba Ananta Vikasa Indonesia.
+Automation test suite untuk Oaktree ERP - sistem freight forwarding terintegrasi dengan Accurate Online. Dibangun menggunakan Katalon Studio sebagai bagian dari pekerjaan Quality Assurance di PT. Rimba Ananta Vikasa Indonesia.
 
 ## Konteks
 
@@ -10,7 +10,7 @@ Oaktree ERP adalah sistem internal yang mengelola alur bisnis freight forwarding
 
 | ID | Alur Bisnis | Keterangan |
 |----|-------------|------------|
-| TC-01 | OAuth Token — Accurate Online | Autentikasi dan pengambilan token akses sebelum transaksi |
+| TC-01 | OAuth Token - Accurate Online | Autentikasi dan pengambilan token akses sebelum transaksi |
 | TC-02 | Create Jobfile | Pembuatan jobfile baru beserta validasi field wajib |
 | TC-03 | Create Jobfile-Buying | Input data buying pada jobfile yang sudah ada |
 | TC-04 | Create Master Customer | Pendaftaran customer baru ke dalam master data |
@@ -32,11 +32,11 @@ Oak-Test-Automation/
 
 Tiga keyword dibuat untuk menangani elemen UI non-standar yang tidak bisa ditangani langsung oleh built-in Katalon:
 
-**OaktreeLogin** — mengelola proses login dan mempertahankan sesi antar test case.
+**OaktreeLogin** - mengelola proses login dan mempertahankan sesi antar test case.
 
-**Select2Input** — menangani dropdown berbasis library Select2 yang tidak bisa diinteraksi lewat `click` biasa. Menggunakan JavaScript execution untuk membuka opsi dan memilih nilai.
+**Select2Input** - menangani dropdown berbasis library Select2 yang tidak bisa diinteraksi lewat `click` biasa. Menggunakan JavaScript execution untuk membuka opsi dan memilih nilai.
 
-**SweetAlert** — menunggu dan mengkonfirmasi popup SweetAlert2 yang muncul setelah aksi submit. Menghindari race condition antara popup dan langkah berikutnya.
+**SweetAlert** - menunggu dan mengkonfirmasi popup SweetAlert2 yang muncul setelah aksi submit. Menghindari race condition antara popup dan langkah berikutnya.
 
 ## Tantangan Teknis
 
