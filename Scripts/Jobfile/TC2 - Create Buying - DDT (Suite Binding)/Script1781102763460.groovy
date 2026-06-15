@@ -23,7 +23,7 @@ void closeSweetAlertIfPresent() {
 		WebUI.executeJavaScript("document.querySelector('.sweet-overlay')?.remove()", null)
 	}
 }
-
+A
 // =========================================================================
 // HELPER: Buat TestObject dinamis dari xpath — tanpa butuh OR entry
 // =========================================================================
