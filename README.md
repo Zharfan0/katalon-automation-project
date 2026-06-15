@@ -1,3 +1,10 @@
+![Katalon Studio](https://img.shields.io/badge/Katalon_Studio-9.x-blue)
+![Language](https://img.shields.io/badge/Language-Groovy-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+## Demo
+link: https://
+
 # Oak-Test-Automation
 
 Automation test suite untuk Oaktree ERP - sistem freight forwarding terintegrasi dengan Accurate Online. Dibangun menggunakan Katalon Studio sebagai bagian dari pekerjaan Quality Assurance di PT. Rimba Ananta Vikasa Indonesia.
