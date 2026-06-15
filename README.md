@@ -1,5 +1,6 @@
 ![Katalon Studio](https://img.shields.io/badge/Katalon_Studio-9.x-blue)
 ![Language](https://img.shields.io/badge/Language-Groovy-green)
+[![Video Demo - Automation Testing Oaktree ERP](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1DKe3fGh5OrwXwy7nPFEAoYw9rO5w5C0l/view?usp=sharing)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ## Demo
